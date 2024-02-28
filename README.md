@@ -37,6 +37,14 @@ You are welcome to add an image to the first scene but do not do so for the othe
 You meet a nice granny on the street who gives you a map and 5 coins to help you on your quest.
 Use the `PUSH` function to add the map to your inventory and add 5 coins to your variable.
 
+You will find that you have a lot of maps being pushed into your inventory, and you will have an infant money gitch. 
+use this code to help, it check if ` map` is not (not is the! part of `!inventory.includes(' map'))`
+```
+  if (!inventory.includes(' map')) {
+    inventory.push(' map');
+    coins += 5;
+  }
+```
 
 ### Scene 3
 You come across a horrible ____.  You win the fight but in the process, your shield is broken.
