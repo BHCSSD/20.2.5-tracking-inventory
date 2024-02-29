@@ -125,3 +125,24 @@ function scene2(){
   text("Scene 2", 20, 450);
 }//end scene 2
 ```
+
+## Grades 
+
+| **Proper use of functions and if()**   (1 Point) | |
+|---------------------------------------------|--------------------------------------|
+| **Code Clarity and Organization** (5 points) |                                      |
+|---------------------------------------------|--------------------------------------|
+| **Structure**                   | Code is well-organized into logical sections with clear separation of concerns. |
+| **Comments and Documentation**     | Concise and informative comments aid understanding of the code. |
+| **Indentation and Formatting**   | Consistent indentation and spacing enhance readability. |
+| **Naming Conventions**          | Descriptive variable and function names improve code clarity. |
+| **Readability and Maintainability**  | Code is easy to read, understand, and maintain. |
+| Total Points: 5                             |                                      |
+
+| **Inventory Manipulation** (5 points)      |                                      |
+|--------------------------------------------|--------------------------------------|
+| **Array Methods Usage**          | Proper use of array methods to update inventory. |
+| **Inventory Update Accuracy**   | Inventory updates accurately reflect the game progression. |
+| **Inventory Printing**            | Clear printing of inventory after updates. |
+| **Storyline Integration**         | Inventory changes are seamlessly integrated with the storyline. |
+| Total Points: 5                            |                                      |
