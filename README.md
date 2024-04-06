@@ -1,5 +1,8 @@
 # 20.2.5-tracking-inventory
 
+**note to future me** review how [flag variables work](https://youtu.be/lZ51aXq-VIg?si=zanp8y2APElS-2mC)
+
+
 # Data Structures Assign- Tracking Inventory Game
 
 While this assignment will take on the theme of a game, it is not a game.  The user gets no choice and it flows linearly.  That said, it should plant seeds of ideas for future games.
