@@ -8,6 +8,7 @@
 While this assignment will take on the theme of a game, it is not a game.  The user gets no choice and it flows linearly.  That said, it should plant seeds of ideas for future games.
 
 The focus of this assignment is to manipulate arrays, you need to show that you know how to use `push()`, `splice()`
+  - Array methods docs, this is where to find [info on `push` and `splice`](https://www.w3schools.com/js/js_array_methods.asp)
 
 ## The Structure of the Program
 
