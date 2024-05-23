@@ -117,6 +117,7 @@ function draw() {
 }//end draw
 
 function scene1(){
+  text("scene 1", 300,40)
   textSize(15);
   text("Welcome intrepid hero! A treacherous member of the King's Council has \nreleased hordes of bloodthirsty monsters into all corners of the kingdom. \nAs a member of the Hero's Guild, it is your duty to protect the kingdom \nfrom all threats of the mystical kind.", 20, 450);
   text("Inventory: " + inventory, 20, 550);
@@ -124,7 +125,8 @@ function scene1(){
 }//end scene 1
 
 function scene2(){
-    textSize(15);
+  text("scene 2", 300,40)
+  textSize(15);
   text("Scene 2", 20, 450);
 }//end scene 2
 ```
