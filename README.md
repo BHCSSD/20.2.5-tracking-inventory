@@ -1,6 +1,7 @@
 # 20.2.5-tracking-inventory
 
 **note to future me** review how [flag variables work](https://youtu.be/lZ51aXq-VIg?si=zanp8y2APElS-2mC)
+
 **another note to future me** show how to use conditionals with .includes()
 
 
