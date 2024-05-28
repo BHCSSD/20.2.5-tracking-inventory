@@ -21,13 +21,13 @@ The focus of this assignment is to manipulate arrays, you need to show that you 
 ## Set up the following global variables:
 - An inventory array.  
 - To start the program, the inventory will contain: water, a knife, a shield, a hat
-- A coins variable.  To start the program, the coins variable will start at 10.
+- A coins variable. To start the program, the coins variable will start at 10.
 
 NEED HELP?  The above setup code is provided at the end of this document.
 
 ## On Every Scene you will do the following:
 - Print a sentence or two about the story
-- Add an if statement that will ensure that ‘an update’ happens only once
+- Add an if statement that will ensure that ‘an update’ happens only once, or use the flag variable
 - Print out of the inventory array after the update occurs
 - Print your current number of coins.
 
